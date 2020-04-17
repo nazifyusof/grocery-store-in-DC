@@ -47,7 +47,7 @@ function App() {
               e.preventDefault();
               setSelectedStore(store);
             }}>
-              <img src = "/Safeway.jpeg" alt ="store"/> 
+              <img src = "/Safeway.png" alt ="store"/> 
             </button>
           </Marker> ) 
 
@@ -59,7 +59,7 @@ function App() {
                 e.preventDefault();
                 setSelectedStore(store);
               }}>
-                <img src = "/walmart.jpeg" alt ="store"/> 
+                <img src = "/walmart.png" alt ="store"/> 
               </button>
             </Marker> )
           :  (store.STORENAME === "Whole Foods" ?  
@@ -70,7 +70,7 @@ function App() {
                 e.preventDefault();
                 setSelectedStore(store);
               }}>
-                <img src = "/wholefood.jpeg" alt ="store"/> 
+                <img src = "/wholefood.png" alt ="store"/> 
               </button>
             </Marker> )
             : (store.STORENAME === "Giant" ?  
@@ -81,7 +81,7 @@ function App() {
                   e.preventDefault();
                   setSelectedStore(store);
                 }}>
-                  <img src = "/Giant.jpeg" alt ="store"/> 
+                  <img src = "/Giant.png" alt ="store"/> 
                 </button>
               </Marker> )
             : 
@@ -92,7 +92,7 @@ function App() {
                 e.preventDefault();
                 setSelectedStore(store);
               }}>
-                <img src = "/other.jpeg" alt ="store"/> 
+                <img src = "/other.png" alt ="store"/> 
               </button>
             </Marker> ))))
 

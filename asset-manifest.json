@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css",
+    "main.js": "/grocery-store-in-DC/static/js/main.4a5beedc.chunk.js",
+    "main.js.map": "/grocery-store-in-DC/static/js/main.4a5beedc.chunk.js.map",
+    "runtime-main.js": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js",
+    "runtime-main.js.map": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js.map",
+    "static/js/2.5e1cabe6.chunk.js": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js",
+    "static/js/2.5e1cabe6.chunk.js.map": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js.map",
+    "index.html": "/grocery-store-in-DC/index.html",
+    "precache-manifest.0d869f0ba9f82b0a210e6c26da6cd6a6.js": "/grocery-store-in-DC/precache-manifest.0d869f0ba9f82b0a210e6c26da6cd6a6.js",
+    "service-worker.js": "/grocery-store-in-DC/service-worker.js",
+    "static/css/main.4a90e2c8.chunk.css.map": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css.map",
+    "static/js/2.5e1cabe6.chunk.js.LICENSE.txt": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd5f7e3a.js",
+    "static/js/2.5e1cabe6.chunk.js",
+    "static/css/main.4a90e2c8.chunk.css",
+    "static/js/main.4a5beedc.chunk.js"
+  ]
+}

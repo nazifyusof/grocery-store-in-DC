@@ -5,9 +5,9 @@ import  * as myStore from "./data/grocery.json"
 
 const geolocateStyle = {
 
-  position : 'absolute',
-  bottom : '0',
-  right : '0',
+  position : 'fixed',
+  bottom : '30px',
+  right : '30px',
   padding: '20px',
 };
 

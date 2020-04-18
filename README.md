@@ -1,8 +1,7 @@
-Mapbox
-React-map-gl# grocery-store-in-DC
+# Grocery Stores in Washington DC
 
-Libraries
-Mapbox GL
+## Libraries 
+Mapbox GL 
 
-API
-react-gl-map
+## API 
+react-gl-map 

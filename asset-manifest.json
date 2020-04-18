@@ -1,22 +1,26 @@
 {
   "files": {
     "main.css": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css",
-    "main.js": "/grocery-store-in-DC/static/js/main.9784f499.chunk.js",
-    "main.js.map": "/grocery-store-in-DC/static/js/main.9784f499.chunk.js.map",
+    "main.js": "/grocery-store-in-DC/static/js/main.e5eae941.chunk.js",
+    "main.js.map": "/grocery-store-in-DC/static/js/main.e5eae941.chunk.js.map",
     "runtime-main.js": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js",
     "runtime-main.js.map": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js.map",
     "static/js/2.5e1cabe6.chunk.js": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js",
     "static/js/2.5e1cabe6.chunk.js.map": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js.map",
     "index.html": "/grocery-store-in-DC/index.html",
-    "precache-manifest.3c3091f71cfc8bfcfaf00e08a2329d43.js": "/grocery-store-in-DC/precache-manifest.3c3091f71cfc8bfcfaf00e08a2329d43.js",
+    "precache-manifest.80d9aafe1deb68d7bd7d8c82c8dd5f1a.js": "/grocery-store-in-DC/precache-manifest.80d9aafe1deb68d7bd7d8c82c8dd5f1a.js",
     "service-worker.js": "/grocery-store-in-DC/service-worker.js",
     "static/css/main.4a90e2c8.chunk.css.map": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css.map",
-    "static/js/2.5e1cabe6.chunk.js.LICENSE.txt": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js.LICENSE.txt"
+    "static/js/2.5e1cabe6.chunk.js.LICENSE.txt": "/grocery-store-in-DC/static/js/2.5e1cabe6.chunk.js.LICENSE.txt",
+    "static/media/giant.jpeg": "/grocery-store-in-DC/static/media/giant.f581ac1c.jpeg",
+    "static/media/other.jpeg": "/grocery-store-in-DC/static/media/other.0069af05.jpeg",
+    "static/media/walmart.jpeg": "/grocery-store-in-DC/static/media/walmart.7e3f90d3.jpeg",
+    "static/media/wholefood.jpeg": "/grocery-store-in-DC/static/media/wholefood.ddce3e28.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd5f7e3a.js",
     "static/js/2.5e1cabe6.chunk.js",
     "static/css/main.4a90e2c8.chunk.css",
-    "static/js/main.9784f499.chunk.js"
+    "static/js/main.e5eae941.chunk.js"
   ]
 }

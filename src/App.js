@@ -1,8 +1,15 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
-import ReactMapGL, {Marker, Popup} from 'react-map-gl';
+import ReactMapGL, {Marker, Popup, GeolocateControl} from 'react-map-gl';
 import  * as myStore from "./data/grocery.json"
 
+const geolocateStyle = {
+
+  position : 'absolute',
+  bottom : '0',
+  right : '0',
+  padding: '20px',
+};
 
 function App() {
   const [viewport, setViewport] = useState({
@@ -30,12 +37,20 @@ function App() {
 
   return (
     <div>
-      <ReactMapGL {...viewport} mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
+      <ReactMapGL {...viewport} 
+      mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         mapStyle = "mapbox://styles/nazifyusof/ck94r3k0410051jo5xlpyycx5"
-        onViewportChange = {viewport => {
+        onViewportChange = {
+          viewport => {
           setViewport(viewport);
-        }}
+        }
+      }
       >
+        <GeolocateControl
+          style={geolocateStyle}
+          positionOptions={{enableHighAccuracy: true}}
+          trackUserLocation={true}
+        />
         {myStore.storeList.map((store) => (
 
           (store.STORENAME === "Safeway") ?
@@ -95,19 +110,6 @@ function App() {
                 <img src = {require('./logo/other.jpeg')}alt ="other"/> 
               </button>
             </Marker> ))))
-
-           
-
-          // <Marker key = {store.OBJECTID} latitude = {store.Y}   
-          // longitude = {store.X}
-          // >
-          //   <button className= "marker-btn" onClick= {(e)=>{
-          //     e.preventDefault();
-          //     setSelectedStore(store);
-          //   }}>
-          //     <img src = "/Safeway.jpeg" alt ="store"/> 
-          //   </button>
-          // </Marker>
         )
         )}
 

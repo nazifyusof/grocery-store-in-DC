@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css",
-    "main.js": "/grocery-store-in-DC/static/js/main.1cf98c7b.chunk.js",
-    "main.js.map": "/grocery-store-in-DC/static/js/main.1cf98c7b.chunk.js.map",
+    "main.js": "/grocery-store-in-DC/static/js/main.00df2a9b.chunk.js",
+    "main.js.map": "/grocery-store-in-DC/static/js/main.00df2a9b.chunk.js.map",
     "runtime-main.js": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js",
     "runtime-main.js.map": "/grocery-store-in-DC/static/js/runtime-main.dd5f7e3a.js.map",
     "static/js/2.dd90e8c4.chunk.js": "/grocery-store-in-DC/static/js/2.dd90e8c4.chunk.js",
     "static/js/2.dd90e8c4.chunk.js.map": "/grocery-store-in-DC/static/js/2.dd90e8c4.chunk.js.map",
     "index.html": "/grocery-store-in-DC/index.html",
-    "precache-manifest.1190e9518f13fe90068df99b35a7d59e.js": "/grocery-store-in-DC/precache-manifest.1190e9518f13fe90068df99b35a7d59e.js",
+    "precache-manifest.f67d251f61f7f43e69eb2094ef6cf88d.js": "/grocery-store-in-DC/precache-manifest.f67d251f61f7f43e69eb2094ef6cf88d.js",
     "service-worker.js": "/grocery-store-in-DC/service-worker.js",
     "static/css/main.4a90e2c8.chunk.css.map": "/grocery-store-in-DC/static/css/main.4a90e2c8.chunk.css.map",
     "static/js/2.dd90e8c4.chunk.js.LICENSE.txt": "/grocery-store-in-DC/static/js/2.dd90e8c4.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.dd5f7e3a.js",
     "static/js/2.dd90e8c4.chunk.js",
     "static/css/main.4a90e2c8.chunk.css",
-    "static/js/main.1cf98c7b.chunk.js"
+    "static/js/main.00df2a9b.chunk.js"
   ]
 }

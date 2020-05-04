@@ -10,5 +10,5 @@ React
 ## API 
 react-gl-map 
 
-## Sources
+## Data
 https://opendata.dc.gov/
